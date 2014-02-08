@@ -1,0 +1,9 @@
+Building StreamCoin
+
+See doc/readme-qt.rst for instructions on building StreamCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of StreamCoin.
+
+See doc/build-*.txt for instructions on building streamcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of StreamCoin.
